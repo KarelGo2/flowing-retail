@@ -5,6 +5,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.61.0"
+    "request": "^2.83.0"
   }
 }
